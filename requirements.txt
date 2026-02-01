@@ -1,8 +1,8 @@
-tensorflow
+tensorflow==2.20.0
 pandas
 numpy
 scikit-learn
 tensorboard
 streamlit
 ipykernel
-streamlit
+
